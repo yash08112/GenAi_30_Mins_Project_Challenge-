@@ -85,14 +85,3 @@ Open **http://localhost:5173** in your browser.
 └── package.json
 ```
 
-## Presentation Tips
-
-1. Start on the **landing page** — highlight the open-source stack
-2. Pick **Software Engineering** for a technical demo
-3. Give a **detailed answer** to show high scores and AI feedback
-4. Show the **session summary** with the animated score ring
-5. Mention Ollama runs **locally** — no API keys, no cost, fully private
-
-## License
-
-MIT — free to use, modify, and present.
