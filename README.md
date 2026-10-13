@@ -1,4 +1,4 @@
-# InterviewCoach AI
+# InterviewCoach AI (30 mins Vibe Coding Project) 
 
 An **open-source AI interview coach** that asks real interview questions, evaluates your answers for accuracy, and provides detailed feedback — perfect for practice sessions and presentations.
 
