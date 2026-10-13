@@ -84,4 +84,3 @@ Open **http://localhost:5173** in your browser.
 │   └── evaluator.js         # Ollama + fallback evaluation
 └── package.json
 ```
-
